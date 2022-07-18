@@ -12,6 +12,7 @@ defusedxml==0.7.1
 entrypoints==0.4
 executing==0.8.3
 fastjsonschema==2.16.1
+greenlet==1.1.2
 importlib-resources==5.8.0
 ipykernel==6.15.1
 ipython==8.4.0
@@ -60,6 +61,7 @@ QtPy==2.1.0
 Send2Trash==1.8.0
 six==1.16.0
 soupsieve==2.3.2.post1
+SQLAlchemy==1.4.39
 stack-data==0.3.0
 terminado==0.15.0
 tinycss2==1.1.1
