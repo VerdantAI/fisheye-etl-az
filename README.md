@@ -16,3 +16,6 @@ Our initial use case is data from the [EPA ECHO](https://echo.epa.gov/tools/data
 * [ECHO Air Emissions Summary](https://echo.epa.gov/tools/data-downloads/air-emissions-download-summary)
 
 Most of these are `.zip` files containing multile child files.  We'll have to identify how to use Azure resources to unpack and load them, since the examples basically loady from local `.csv` files.
+
+## Local Dev
+We are using [Python virtual environments](https://docs.python.org/3/library/venv.html). If you are unfamiliar with `venv` please reach out to the other contributors.  Please use the [requirements.txt](requirements.txt) in the current environment.
