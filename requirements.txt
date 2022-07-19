@@ -17,6 +17,7 @@ importlib-resources==5.8.0
 ipykernel==6.15.1
 ipython==8.4.0
 ipython-genutils==0.2.0
+ipython-sql==0.4.1
 ipywidgets==7.7.1
 jedi==0.18.1
 Jinja2==3.1.2
@@ -42,6 +43,7 @@ pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
+prettytable==0.7.2
 prometheus-client==0.14.1
 prompt-toolkit==3.0.30
 psutil==5.9.1
@@ -62,6 +64,7 @@ Send2Trash==1.8.0
 six==1.16.0
 soupsieve==2.3.2.post1
 SQLAlchemy==1.4.39
+sqlparse==0.4.2
 stack-data==0.3.0
 terminado==0.15.0
 tinycss2==1.1.1
